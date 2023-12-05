@@ -14,7 +14,7 @@ const MakeABlog = () => {
     const messages = [
       {
         role: 'user',
-        content: `Create a detailed and SEO-optimized blog post about ${title} with the following keywords: ${tags}. Target audience: tech-savvy individuals. Writing style: Formal.`
+        content: `Create a detailed and SEO-optimized blog post about ${title} with the following keywords: ${tags}. Give great detail and story like vibes. Give some placements for outbound links.`
       }
     ];
 
